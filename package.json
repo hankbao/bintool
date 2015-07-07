@@ -1,0 +1,21 @@
+{
+  "name": "bintool",
+  "version": "0.0.1",
+  "description": "A little tool for binary data processing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bintool",
+    "binary",
+    "data",
+    "raw",
+    "header"
+  ],
+  "author": "Hank Bao",
+  "license": "MIT",
+  "dependencies": {
+    "cli": "^0.8.0"
+  }
+}
